@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-hexarch-lab
+
+server:
+  port: 8081
+
+clients:
+  json-placeholder:
+    name: json-placeholder-api
+    url: https://jsonplaceholder.typicode.com/posts
